@@ -2,6 +2,13 @@
 @import "sidebar";
 @import "chat";
 
+img#site-logo.logo-big {
+    width: 280px;
+    height: 80px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
 .d-editor-textarea-wrapper,
 .select-kit-header {
   border-radius: var(--mint-border-radius);
