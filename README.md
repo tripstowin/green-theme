@@ -1,4 +1,4 @@
-# Mint Theme :herb:
+# Green Theme :herb:
 
 A modern theme for Discourse with a hint of mint.
 
